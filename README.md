@@ -2,9 +2,9 @@
 
 ## 🛡️ Compromisso da Comunidade
 
-Na NodeJS, acreditamos em criar um espaço seguro, acolhedor e respeitoso para todas as pessoas. Isso vale para palestrantes, participantes, organizadores, voluntários e patrocinadores.
+Na NorteJS, acreditamos em criar um espaço seguro, acolhedor e respeitoso para todas as pessoas. Isso vale para palestrantes, participantes, organizadores, voluntários e patrocinadores.
 
-Ao participar de um evento NodeJS, você concorda em seguir este código de conduta. A equipe organizadora se compromete a aplicá-lo com seriedade. Sua colaboração é essencial.
+Ao participar de um evento NorteJS, você concorda em seguir este código de conduta. A equipe organizadora se compromete a aplicá-lo com seriedade. Sua colaboração é essencial.
 
 ---
 
@@ -82,10 +82,10 @@ Se necessário, vamos:
 
 Este código se aplica a:
 
-- Todas as atividades oficiais da NodeBR no evento  
+- Todas as atividades oficiais da NorteJS no evento  
 - Eventos sociais paralelos promovidos pela comunidade  
 - Grupos online e canais relacionados ao evento  
 
 ---
 
-A NodeBR é construída por todos nós. Faça parte ativamente para manter nosso ambiente positivo, colaborativo e diverso.
+A NorteJS é construída por todos nós. Faça parte ativamente para manter nosso ambiente positivo, colaborativo e diverso.
