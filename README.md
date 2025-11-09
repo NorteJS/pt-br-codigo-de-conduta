@@ -23,7 +23,7 @@ Todos devem se sentir bem-vindos, independentemente de:
 - Religião (ou ausência dela)  
 - Tecnologias ou linguagens de programação utilizadas
 
-**Seja respeitoso. Não seja escroto.**
+**Seja respeitoso. Trate as pessoas como você gostaria de ser tratado.**
 
 ---
 
